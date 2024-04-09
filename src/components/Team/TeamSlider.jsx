@@ -114,7 +114,7 @@ export default function TeamSlider() {
                       <div className="inner">
                         <div className="photo">
                           <img
-                            src={Alan}
+                            src={Richard}
                             alt=""
                           />
                           <div className="borderLine top_left"></div>
@@ -123,14 +123,16 @@ export default function TeamSlider() {
                           <div className="borderLine bottom_right"></div>
                         </div>
                         <div className="topInfo">
-                          <span className="name">Alan Xin</span>
+                          <span className="name">Richard Wayne</span>
                           <span className="position">
-                          Co-founder.
+                          Innovator, Serial Entrepreneur.
+                          
                           </span>
                         </div>
                         <div className="description">
                           <div>
-                          Co-founder of ventureDAO Fight Club and governance/tokenomics contributor at BanklessDAO; ex-CoinDesk and tradFi veteran.
+                          Bbuilt his first algorithm for Evony 1 at 15 years old,
+                        
                           </div>
                         </div>
                       </div>
@@ -188,21 +190,21 @@ export default function TeamSlider() {
                     >
                       <div className="inner">
                         <div className="photo">
-                          <img src={Richard} alt="" />
+                          <img src={Alan} alt="" />
                           <div className="borderLine top_left"></div>
                           <div className="borderLine top_right"></div>
                           <div className="borderLine bottom_left"></div>
                           <div className="borderLine bottom_right"></div>
                         </div>
                         <div className="topInfo">
-                          <span className="name">Richard Wayne</span>
+                          <span className="name">Alan Xin</span>
                           <span className="position">
-                            Innovator, Serial Entrepreneur
+                            Co-founder.
                           </span>
                         </div>
                         <div className="description">
                           <div>
-                            Bbuilt his first algorithm for Evony 1 at 15 years old,
+                          Co-founder of ventureDAO Fight Club and governance/tokenomics contributor at BanklessDAO; ex-CoinDesk and tradFi veteran.
                           </div>
                         </div>
                       </div>

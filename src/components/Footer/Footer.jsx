@@ -124,37 +124,37 @@ export default function Footer() {
               rel="noreferrer"
             ></a>
             <a
-              href="https://www.instagram.com/ .io/"
+              href="https://www.instagram.com/"
               className="linkItem instagram"
               target="_blank"
               rel="noreferrer"
             ></a>
             <a
-              href="https://t.me/+hmvHOCKmyj4zZWZi"
+              href="https://t.me/"
               className="linkItem telegram"
               target="_blank"
               rel="noreferrer"
             ></a>
             <a
-              href="https://www.facebook.com/profile.php?id=100090356112634"
+              href="https://www.facebook.com/"
               className="linkItem facebook"
               target="_blank"
               rel="noreferrer"
             ></a>
             <a
-              href="https://medium.com/@ "
+              href="https://medium.com/@"
               className="linkItem medium"
               target="_blank"
               rel="noreferrer"
             ></a>
             <a
              rel="noreferrer"
-              href="https://www.youtube.com/channel/UCL_u6AbwF7DYrywzgLoKb7A"
+              href="https://www.youtube.com/"
               target="_blank"
               className="linkItem youtube"
             ></a>
             <a
-              href="https://www.linkedin.com/company/nft/"
+              href="https://www.linkedin.com/company"
               className="linkItem linkedin"
             ></a>
           </div>
