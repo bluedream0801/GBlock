@@ -191,7 +191,7 @@ export default function PlanetSection() {
                             <div className="outlined">
                                 Welcome to the Verified Gblock!
                             </div>
-                            <div className="regular">Welcome to the Verified Galaxy!</div>
+                            <div className="regular">Welcome to the Verified Gblock!</div>
                         </div>
                         <div className="description">
                             GBlock is a Sci-Fi NFT blockchain MMORPG built on the
