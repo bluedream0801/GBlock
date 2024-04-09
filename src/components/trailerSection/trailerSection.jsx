@@ -13,7 +13,7 @@ export default function TrailerSection() {
                     <div className="videoContainer">
                         <div style={{ width: "640px", height: "360px" }} className="video">
                             <div data-vimeo-initialized="true" style={{ width: "100%", height: "100%", overflow: "hidden" }}>
-                                <iframe src="https://www.youtube.com/watch?v=QDThagw60PE" width="426" height="240" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Gblock New Trailer 15.09" data-ready="true" style={{ width: "100%", height: "100%" }}></iframe>
+                                <iframe src="https://vimeo.com/162151880" width="426" height="240" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Gblock New Trailer 15.09" data-ready="true" style={{ width: "100%", height: "100%" }}></iframe>
                             </div>
                         </div>
                     </div>
