@@ -7,10 +7,10 @@ import "slick-carousel/slick/slick-theme.css";
 import elliot from "../../static/Elliot-3b388d555bee4ef7ea00a3d680a5f6f1.png";
 import Richard from "../../static/richard.png";
 import Alan from "../../static/Alan.png";
-import Kyle from "../../static/Kyle.png";
+// import Kyle from "../../static/Kyle.png";
 import Dinesh from "../../static/Dinesh.png";
 import Sarvesh from "../../static/Sarvesh.png";
-import Jenson from "../../static/Jenson.png";
+// import Jenson from "../../static/Jenson.png";
 import Jurian from "../../static/Jurian.png";
 import William from "../../static/William.png";
 import Lester from "../../static/Lester.png";
@@ -285,7 +285,7 @@ export default function TeamSlider() {
                     </div>
                   </div>
                 </div>
-                <div
+                {/* <div
                   data-index="1"
                   className="slick-slide "
                   tabIndex="-1"
@@ -320,8 +320,8 @@ export default function TeamSlider() {
                       </div>
                     </div>
                   </div>
-                </div>
-                <div
+                </div> */}
+                {/* <div
                   data-index="2"
                   className="slick-slide"
                   tabIndex="-1"
@@ -357,7 +357,7 @@ export default function TeamSlider() {
                     </div>
                   </div>
                   
-                </div>
+                </div> */}
                 <div
 data-index="19"
 tabIndex="-1"
