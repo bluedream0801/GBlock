@@ -423,7 +423,7 @@ export default function Navbar() {
             </li>
             <li className="header_icons">
               <a
-                href="https://discord.gg/exoworlds"
+                href="https://discord.gg/"
                 className="discord"
                 target="_blank"
                 rel="noreferrer"
@@ -431,7 +431,7 @@ export default function Navbar() {
             </li>
             <li className="header_icons">
               <a
-                href="https://twitter.com/ExoWorldsNFT"
+                href="https://twitter.com/"
                 className="twitter"
                 target="_blank"
                 rel="noreferrer"
@@ -439,7 +439,7 @@ export default function Navbar() {
             </li>
             <li className="header_icons">
               <a
-                href="https://www.instagram.com/exoworldsbrasil/"
+                href="https://www.instagram.com//"
                 target="_blank"
                 className="instagram"
                 rel="noreferrer"
@@ -447,7 +447,7 @@ export default function Navbar() {
             </li>
             <li className="header_icons">
               <a
-                href="https://t.me/+hmvHOCKmyj4zZWZi"
+                href="https://t.me/"
                 className="telegram"
                 target="_blank"
                 rel="noreferrer"
@@ -458,7 +458,7 @@ export default function Navbar() {
               <ul className="item_opened subMenu">
                 <li className="header_icons">
                   <a
-                    href="https://discord.gg/exoworlds"
+                    href="https://discord.gg/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -479,7 +479,7 @@ export default function Navbar() {
                 </li>
                 <li className="header_icons">
                   <a
-                    href="https://twitter.com/ExoWorldsNFT"
+                    href="https://twitter.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -501,7 +501,7 @@ export default function Navbar() {
                 <li className="header_icons"></li>
                 <li className="header_icons">
                   <a
-                    href="https://t.me/+hmvHOCKmyj4zZWZi"
+                    href="https://t.me/"
                     target="_blank"
                     rel="noreferrer"
                   >

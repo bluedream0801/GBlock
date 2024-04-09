@@ -233,7 +233,7 @@ export default function GamePlaySection() {
                 <div className="innerText">
                   <div className="title">Galactic Factions and Senate</div>
                   <div className="description2">
-                    Team play and alliances will be critical in ExoWorlds,
+                    Team play and alliances will be critical in Gblock,
                     whether that&#x27;s in faction wars or galactic senate
                     parties, make sure to find the right allies that have your
                     back.
@@ -256,7 +256,7 @@ export default function GamePlaySection() {
                 <div className="innerText">
                   <div className="title">PVP and PVE Interactions</div>
                   <div className="description2">
-                    NPC’s will be a big part of ExoWorlds, for missions, combat
+                    NPC’s will be a big part of Gblock, for missions, combat
                     and quests. This includes cute, and fearsome companions. PVP
                     is enabled in many parts of the Galaxy, whether it be
                     friendly duels or deathmatches.

@@ -11,6 +11,7 @@ import Kyle from "../../static/Kyle.png";
 import Dinesh from "../../static/Dinesh.png";
 import Sarvesh from "../../static/Sarvesh.png";
 import Jenson from "../../static/Jenson.png";
+import Jurian from "../../static/Jurian.png";
 import Lester from "../../static/Lester.png";
 
 import biArrow from "../../static/2327bb1b91aa23c06d98c3badb1ef2de/ac378/bi_arrow-prev.png";
@@ -205,6 +206,42 @@ export default function TeamSlider() {
                         <div className="description">
                           <div>
                           Co-founder of ventureDAO Fight Club and governance/tokenomics contributor at BanklessDAO; ex-CoinDesk and tradFi veteran.
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-index="0"
+                  className="slick-slide "
+                  tabIndex="-1"
+                  aria-hidden="false"
+                  style={{ outline: "0", width: "4.166666666666667%" }}
+                >
+                  <div>
+                    <div
+                      className="teamItem"
+                      tabIndex="-1"
+                      style={{ width: "100%", display: "inline-block" }}
+                    >
+                      <div className="inner">
+                        <div className="photo">
+                          <img src={Jurian} alt="" />
+                          <div className="borderLine top_left"></div>
+                          <div className="borderLine top_right"></div>
+                          <div className="borderLine bottom_left"></div>
+                          <div className="borderLine bottom_right"></div>
+                        </div>
+                        <div className="topInfo">
+                          <span className="name">Jurian</span>
+                          <span className="position">
+                            Lead Game Designer
+                          </span>
+                        </div>
+                        <div className="description">
+                          <div>
+                          Unity
                           </div>
                         </div>
                       </div>

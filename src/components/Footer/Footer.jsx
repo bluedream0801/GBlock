@@ -154,7 +154,7 @@ export default function Footer() {
               className="linkItem youtube"
             ></a>
             <a
-              href="https://www.linkedin.com/company"
+              href="https://www.linkedin.com/company/102362315/admin/feed/posts/"
               className="linkItem linkedin"
             ></a>
           </div>
