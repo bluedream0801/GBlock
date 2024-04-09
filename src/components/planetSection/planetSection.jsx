@@ -189,7 +189,7 @@ export default function PlanetSection() {
                     <div className="textBlock">
                         <div className="titleSection">
                             <div className="outlined">
-                                Welcome to the Verified Galaxy!
+                                Welcome to the Verified Gblock!
                             </div>
                             <div className="regular">Welcome to the Verified Galaxy!</div>
                         </div>
