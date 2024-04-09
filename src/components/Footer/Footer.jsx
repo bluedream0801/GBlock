@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
           <div className="menu1 mobOreder2">
             <ul className="footerMenu">
-              <li className="menuHead">ExoWorlds</li>
+              <li className="menuHead"> </li>
               <li className="collectionS_link">
                 <a
                   className="uppercase"
@@ -112,19 +112,19 @@ export default function Footer() {
           </div>
           <div className="menu4 mobOreder6 link-group">
             <a
-              href="https://discord.gg/exoworlds"
+              href="https://discord.gg/"
               className="linkItem discord"
               target="_blank"
               rel="noreferrer"
             ></a>
             <a
-              href="https://twitter.com/ExoWorldsNFT"
+              href="https://twitter.com/NFT"
               className="linkItem twitter"
               target="_blank"
               rel="noreferrer"
             ></a>
             <a
-              href="https://www.instagram.com/exoworlds.io/"
+              href="https://www.instagram.com/ .io/"
               className="linkItem instagram"
               target="_blank"
               rel="noreferrer"
@@ -142,7 +142,7 @@ export default function Footer() {
               rel="noreferrer"
             ></a>
             <a
-              href="https://medium.com/@ExoWorlds"
+              href="https://medium.com/@ "
               className="linkItem medium"
               target="_blank"
               rel="noreferrer"
@@ -154,7 +154,7 @@ export default function Footer() {
               className="linkItem youtube"
             ></a>
             <a
-              href="https://www.linkedin.com/company/exoworldsnft/"
+              href="https://www.linkedin.com/company/nft/"
               className="linkItem linkedin"
             ></a>
           </div>

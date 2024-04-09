@@ -42,7 +42,7 @@ export default function RoadMapSection() {
                 <span>1</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2022</div>
+                <div className="step_date">Q2   2025</div>
                 <div className="step_title">NFT PUBLIC SALE MINT</div>
               </div>
               <div className="step_footer">
@@ -82,7 +82,7 @@ export default function RoadMapSection() {
                 <span>2</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2022</div>
+                <div className="step_date">Q2   2025</div>
                 <div className="step_title">NFT MARKETPLACE</div>
               </div>
               <div className="step_footer">
@@ -121,7 +121,7 @@ export default function RoadMapSection() {
                 <span>3</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2022</div>
+                <div className="step_date">Q2   2025</div>
                 <div className="step_title">COORDINATE MARKETPLACE</div>
               </div>
               <div className="step_footer">
@@ -160,7 +160,7 @@ export default function RoadMapSection() {
                 <span>4</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2022</div>
+                <div className="step_date">Q2   2025</div>
                 <div className="step_title">MY COLLECTION EXPANSION</div>
               </div>
               <div className="step_footer">
@@ -199,7 +199,7 @@ export default function RoadMapSection() {
                 <span>5</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2022</div>
+                <div className="step_date">Q2   2025</div>
                 <div className="step_title">UE5-OMNICHAIN PLUGIN</div>
               </div>
               <div className="step_footer">
@@ -239,7 +239,7 @@ export default function RoadMapSection() {
                 <span>6</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q4 2022</div>
+                <div className="step_date">Q4   2025</div>
                 <div className="step_title">WEB PROFILE SYSTEM INTRODUCED</div>
               </div>
               <div className="step_footer">
@@ -279,7 +279,7 @@ export default function RoadMapSection() {
                 <span>7</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q1 2023</div>
+                <div className="step_date">Q1  2025</div>
                 <div className="step_title">
                   WHITEPAPER AND TOKEN WHITELIST RELEASE
                 </div>
@@ -321,7 +321,7 @@ export default function RoadMapSection() {
                 <span>8</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2023</div>
+                <div className="step_date">Q2  2025</div>
                 <div className="step_title">
                   CROSS-CHAIN INTEGRATION: BINANCE
                 </div>
@@ -363,7 +363,7 @@ export default function RoadMapSection() {
                 <span>9</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2023</div>
+                <div className="step_date">Q2  2025</div>
                 <div className="step_title">
                   CROSS-CHAIN INTEGRATION: POLYGON
                 </div>
@@ -405,7 +405,7 @@ export default function RoadMapSection() {
                 <span>10</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">September 15th 2023</div>
+                <div className="step_date">September 15th  2025</div>
                 <div className="step_title">TWIN TOKEN SYSTEM LAUNCH</div>
               </div>
               <div className="step_footer">
@@ -445,7 +445,7 @@ export default function RoadMapSection() {
                 <span>11</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q4 2023</div>
+                <div className="step_date">Q4  2025</div>
                 <div className="step_title">VESEA TAKEOVER</div>
               </div>
               <div className="step_footer">
@@ -485,7 +485,7 @@ export default function RoadMapSection() {
                 <span>12</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q4 2023</div>
+                <div className="step_date">Q4  2025</div>
                 <div className="step_title">GBLOCK CLOSED BETA</div>
               </div>
               <div className="step_footer">
@@ -525,7 +525,7 @@ export default function RoadMapSection() {
                 <span>13</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q4 2023</div>
+                <div className="step_date">Q4  2025</div>
                 <div className="step_title">GBLOCK TOURNAMENTS</div>
               </div>
               <div className="step_footer">
@@ -565,7 +565,7 @@ export default function RoadMapSection() {
                 <span>14</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q1 2024</div>
+                <div className="step_date">Q1  2025</div>
                 <div className="step_title">VESEA TAKEOVER</div>
               </div>
               <div className="step_footer">
@@ -605,7 +605,7 @@ export default function RoadMapSection() {
                 <span>15</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q1 2024</div>
+                <div className="step_date">Q1  2025</div>
                 <div className="step_title">BLOCKCHAIN INTEGRATION IN-GAME</div>
               </div>
               <div className="step_footer">
@@ -645,7 +645,7 @@ export default function RoadMapSection() {
                 <span>16</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q1 2024</div>
+                <div className="step_date">Q1  2025</div>
                 <div className="step_title">
                   ELYSIUM INTEGRATION: GAME, LIQUIDITY FARM, +
                 </div>
@@ -687,7 +687,7 @@ export default function RoadMapSection() {
                 <span>17</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2024</div>
+                <div className="step_date">Q2  2025</div>
                 <div className="step_title">GBLOCK OPEN BETA RELEASE</div>
               </div>
               <div className="step_footer">
@@ -727,7 +727,7 @@ export default function RoadMapSection() {
                 <span>18</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2024</div>
+                <div className="step_date">Q2  2025</div>
                 <div className="step_title">OPEN BETA TOURNAMENTS</div>
               </div>
               <div className="step_footer">
@@ -767,7 +767,7 @@ export default function RoadMapSection() {
                 <span>19</span>
               </div>
               <div className="stepInfo">
-                <div className="step_date">Q2 2024</div>
+                <div className="step_date">Q2  2025</div>
                 <div className="step_title">CROSS-CHAIN MEGA TOURNAMENT</div>
               </div>
               <div className="step_footer">
